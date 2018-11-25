@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dictionary</string>
+    <string name="search_go">search</string>
+    <string name="favorite_ic">Favorite</string>
+    <string name="menu_ic">menu</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Fragment_search">frag_search</string>
+</resources>
