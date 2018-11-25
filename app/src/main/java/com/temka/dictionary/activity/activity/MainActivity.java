@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
                 case R.id.nav_search:
                     setFragment(SearchFragment.newInstance());
                 return true;
-
+//this is test
                 case R.id.nav_menus:
                     setFragment(OptionsFragment.newInstance());
                     return true;
